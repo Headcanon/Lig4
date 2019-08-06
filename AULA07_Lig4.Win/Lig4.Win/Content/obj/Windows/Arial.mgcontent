@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/CLIENTE/Desktop/Tudo de programação q eu ainda tenho q ver o q é/AULA07_Lig4.Win/Lig4.Win/Lig4.Win/Content/Arial.spritefont</SourceFile>
+  <SourceTime>2018-04-02T12:01:42.0717742-03:00</SourceTime>
+  <DestFile>C:/Users/CLIENTE/Desktop/Tudo de programação q eu ainda tenho q ver o q é/AULA07_Lig4.Win/Lig4.Win/Lig4.Win/Content/bin/Windows/Arial.xnb</DestFile>
+  <DestTime>2019-08-06T17:58:59.2409975-03:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T12:05:36-03:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T12:05:36-03:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

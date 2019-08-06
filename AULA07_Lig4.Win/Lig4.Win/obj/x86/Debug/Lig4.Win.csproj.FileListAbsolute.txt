@@ -1,0 +1,78 @@
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\Content\Peca.xnb
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\Lig4.Win.exe
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\Lig4.Win.pdb
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.csprojResolveAssemblyReference.cache
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.csproj.CoreCompileInputs.cache
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.exe
+C:\Users\egomes\Desktop\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.pdb
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.csprojResolveAssemblyReference.cache
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.csproj.CoreCompileInputs.cache
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.exe
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.pdb
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\Content\Peca.xnb
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\Lig4.Win.exe
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\Lig4.Win.pdb
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\egomes\Desktop\AULA06_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\Content\Arial.xnb
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\Content\Peca.xnb
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\Lig4.Win.exe
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\Lig4.Win.pdb
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.csprojAssemblyReference.cache
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.csproj.CoreCompileInputs.cache
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.csproj.CopyComplete
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.exe
+C:\Users\CLIENTE\Desktop\Tudo de programação q eu ainda tenho q ver o q é\AULA07_Lig4.Win\Lig4.Win\Lig4.Win\obj\x86\Debug\Lig4.Win.pdb
